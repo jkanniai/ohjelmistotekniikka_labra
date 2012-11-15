@@ -3,6 +3,7 @@
 
 int main()
 {
+  int i = 0;
   std::string firstname,surname;
   std::cout << "What is your name?" << std::endl;
   std::cin >> firstname >> surname << std::endl;
